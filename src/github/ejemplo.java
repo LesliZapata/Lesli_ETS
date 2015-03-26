@@ -11,5 +11,6 @@ public class ejemplo {
 			System.out.print("Soy Lesli, soy fantastica");
 			System.out.print("Modifico el ejercicio");
 			System.out.println("Hola que hace, un push o que hace");
+			System.out.println("Hola soy Lesli y voy a hacer un fetch");
 		}
 }
